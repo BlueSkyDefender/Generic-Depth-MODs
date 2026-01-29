@@ -28,8 +28,3 @@ If you find this helpful, consider supporting the project:
 
 🌐 [Depth3D.info](http://www.Depth3D.info)
 
----
-
-# Short Description (for main repo page)
-
-Enhanced automatic depth buffer detection for ReShade. Based on crosire's example with improved detection capabilities.
