@@ -1,8 +1,6 @@
 # Generic-Depth-MODs
 The Built Version of GDM for External Apps
 
-# Full README.md
-
 ## Enhanced Automatic Depth Buffer Detection
 
 A modification of the ReShade depth buffer detection example, providing improved automatic detection capabilities.
